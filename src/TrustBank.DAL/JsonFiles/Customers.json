@@ -1,0 +1,34 @@
+[
+  {
+    "FirstName": "Cyrille",
+    "LastName": "Waeland",
+    "CustomerName": "Cyrille Waeland",
+    "Email": "cwaeland0@xrea.com",
+    "PhoneNumber": "141-644-2578",
+    "DateOfBirth": "1990-07-04T13:24:59Z",
+    "DateCreated": "2021-07-04T13:24:59Z",
+    "DateOfLastUpdate": "2020-12-29T18:32:38Z"
+  },
+  {
+    "FirstName": "Corri",
+    "LastName": "Farnin",
+    "CustomerName": "Corri Farnin",
+    "Email": "cfarnin1@cisco.com",
+    "PhoneNumber": "625-419-8167",
+    "Address": "4570 Redwing Park",
+    "DateOfBirth": "2000-05-04T13:24:59Z",
+    "DateCreated": "2021-08-07T09:56:58Z",
+    "DateOfLastUpdate": "2021-02-21T22:22:56Z"
+  },
+  {
+    "FirstName": "Athens",
+    "LastName": "Branch",
+    "CustomerName": "Athens Branch",
+    "Email": "AthensBranch@trustbank.com",
+    "PhoneNumber": "402-177-5865",
+    "Address": "95415 Granby Junction",
+    "DateOfBirth": "1985-09-04T13:24:59Z",
+    "DateCreated": "2021-01-26T18:26:11Z",
+    "DateOfLastUpdate": "2020-10-25T22:49:07Z"
+  }
+]
