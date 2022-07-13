@@ -1,0 +1,39 @@
+
+  [
+    {
+      "AccountName": "Cyrille Waeland",
+      "AccountNumber": "1111111111",
+      "AccountBalance": 50000,
+      "ClosureStatus": "0",
+      "AccountStatus": "0",
+      "LastTransactionDate": "2020-12-29T18:32:38Z",
+      "ProductId": 1,
+      "CustomerId": 1,
+      "DateCreated": "2021-07-04T13:24:59Z",
+      "DateOfLastUpdate": "2020-12-29T18:32:38Z"
+    },
+    {
+      "AccountName": "Corri Farnin",
+      "AccountNumber": "2222222222",
+      "AccountBalance": 50000,
+      "ClosureStatus": "0",
+      "AccountStatus": "1",
+      "LastTransactionDate": "2020-12-29T18:32:38Z",
+      "ProductId": 2,
+      "CustomerId": 2,
+      "DateCreated": "2021-07-04T13:24:59Z",
+      "DateOfLastUpdate": "2020-12-29T18:32:38Z"
+    },
+    {
+      "AccountName": "Athens Branch",
+      "AccountNumber": "3333333333",
+      "AccountBalance": 1000000,
+      "ClosureStatus": "0",
+      "AccountStatus": "0",
+      "LastTransactionDate": "2020-12-29T18:32:38Z",
+      "ProductId": 3,
+      "CustomerId": 3,
+      "DateCreated": "2021-07-04T13:24:59Z",
+      "DateOfLastUpdate": "2020-12-29T18:32:38Z"
+    }
+  ]

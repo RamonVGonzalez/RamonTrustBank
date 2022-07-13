@@ -1,0 +1,158 @@
+2022-06-28 15:09:32.1660 Info Message Template Auto Format enabled
+2022-06-28 15:09:32.2566 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-28 15:09:33.2204 Info Adding target FileTarget(Name=alldata)
+2022-06-28 15:09:33.2204 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-28 15:09:33.3703 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-28 15:09:33.4588 Info Configuration initialized.
+2022-06-28 15:09:34.5328 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 15:32:04.8843 Info Message Template Auto Format enabled
+2022-06-28 15:32:04.9575 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-28 15:32:05.3229 Info Adding target FileTarget(Name=alldata)
+2022-06-28 15:32:05.3697 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-28 15:32:05.6287 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-28 15:32:05.7350 Info Configuration initialized.
+2022-06-28 15:32:05.8152 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 16:13:22.3651 Info Message Template Auto Format enabled
+2022-06-28 16:13:22.4665 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-28 16:13:22.8412 Info Adding target FileTarget(Name=alldata)
+2022-06-28 16:13:22.8996 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-28 16:13:23.0481 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-28 16:13:23.1481 Info Configuration initialized.
+2022-06-28 16:13:23.6165 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 16:41:06.1624 Info Message Template Auto Format enabled
+2022-06-28 16:41:06.2569 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-28 16:41:06.6617 Info Adding target FileTarget(Name=alldata)
+2022-06-28 16:41:06.6909 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-28 16:41:06.8808 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-28 16:41:06.9741 Info Configuration initialized.
+2022-06-28 16:41:07.0269 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 16:54:03.9433 Info Message Template Auto Format enabled
+2022-06-28 16:54:04.0106 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-28 16:54:04.4796 Info Adding target FileTarget(Name=alldata)
+2022-06-28 16:54:04.4895 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-28 16:54:04.7150 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-28 16:54:04.7903 Info Configuration initialized.
+2022-06-28 16:54:04.8392 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 16:57:18.7372 Info Message Template Auto Format enabled
+2022-06-28 16:57:18.8456 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-28 16:57:19.2182 Info Adding target FileTarget(Name=alldata)
+2022-06-28 16:57:19.2291 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-28 16:57:19.3580 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-28 16:57:19.4473 Info Configuration initialized.
+2022-06-28 16:57:19.5019 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 17:05:22.2755 Info Message Template Auto Format enabled
+2022-06-28 17:05:22.3700 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-28 17:05:22.8198 Info Adding target FileTarget(Name=alldata)
+2022-06-28 17:05:22.8479 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-28 17:05:22.9970 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-28 17:05:23.1053 Info Configuration initialized.
+2022-06-28 17:05:23.1628 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 17:20:12.4742 Info Message Template Auto Format enabled
+2022-06-28 17:20:12.5479 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-28 17:20:12.9385 Info Adding target FileTarget(Name=alldata)
+2022-06-28 17:20:12.9660 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-28 17:20:13.1071 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-28 17:20:13.2046 Info Configuration initialized.
+2022-06-28 17:20:13.3132 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 17:24:10.8797 Info Message Template Auto Format enabled
+2022-06-28 17:24:10.9507 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-28 17:24:11.3773 Info Adding target FileTarget(Name=alldata)
+2022-06-28 17:24:11.4260 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-28 17:24:11.5792 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-28 17:24:11.6591 Info Configuration initialized.
+2022-06-28 17:24:11.7280 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 17:54:20.2563 Info Message Template Auto Format enabled
+2022-06-28 17:54:20.3227 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-28 17:54:20.7152 Info Adding target FileTarget(Name=alldata)
+2022-06-28 17:54:20.7581 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-28 17:54:20.8698 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-28 17:54:20.9516 Info Configuration initialized.
+2022-06-28 17:54:21.0279 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-28 20:34:54.7241 Info Message Template Auto Format enabled
+2022-06-28 20:34:54.9030 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-28 20:34:55.3705 Info Adding target FileTarget(Name=alldata)
+2022-06-28 20:34:55.4707 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-28 20:34:55.5223 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'minval'='Information' for element 'logger' in section 'rules'
+2022-06-28 20:34:55.7366 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-28 20:34:55.8645 Info Configuration initialized.
+2022-06-28 20:34:55.9342 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-06-30 19:09:23.9580 Info Message Template Auto Format enabled
+2022-06-30 19:09:24.0313 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-30 19:09:24.8579 Info Adding target FileTarget(Name=alldata)
+2022-06-30 19:09:24.8690 Info Adding target FileTarget(Name=otherFile-web)
+2022-06-30 19:09:24.8923 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'minval'='Information' for element 'logger' in section 'rules'
+2022-06-30 19:09:25.0013 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-06-30 19:09:25.0723 Info Configuration initialized.
+2022-06-30 19:09:25.2248 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-01 08:32:10.2888 Info Message Template Auto Format enabled
+2022-07-01 08:32:10.4017 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-01 08:32:10.8122 Info Adding target FileTarget(Name=alldata)
+2022-07-01 08:32:10.8393 Info Adding target FileTarget(Name=otherFile-web)
+2022-07-01 08:32:10.8622 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'minval'='Information' for element 'logger' in section 'rules'
+2022-07-01 08:32:10.9974 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-07-01 08:32:11.0756 Info Configuration initialized.
+2022-07-01 08:32:11.1708 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-01 08:51:10.2260 Info Message Template Auto Format enabled
+2022-07-01 08:51:10.3100 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-01 08:51:10.6106 Info Adding target FileTarget(Name=alldata)
+2022-07-01 08:51:10.6529 Info Adding target FileTarget(Name=otherFile-web)
+2022-07-01 08:51:10.6866 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'minval'='Information' for element 'logger' in section 'rules'
+2022-07-01 08:51:10.7815 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-07-01 08:51:10.8423 Info Configuration initialized.
+2022-07-01 08:51:10.8959 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-01 09:10:20.5277 Info Message Template Auto Format enabled
+2022-07-01 09:10:20.6716 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-01 09:10:21.0479 Info Adding target FileTarget(Name=alldata)
+2022-07-01 09:10:21.0479 Info Adding target FileTarget(Name=otherFile-web)
+2022-07-01 09:10:21.0843 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'minval'='Information' for element 'logger' in section 'rules'
+2022-07-01 09:10:21.2096 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-07-01 09:10:21.2869 Info Configuration initialized.
+2022-07-01 09:10:21.3414 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-05 13:51:51.5663 Info Message Template Auto Format enabled
+2022-07-05 13:51:51.6436 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 13:51:52.4671 Info Adding target FileTarget(Name=alldata)
+2022-07-05 13:51:52.4755 Info Adding target FileTarget(Name=otherFile-web)
+2022-07-05 13:51:52.4948 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'minval'='Information' for element 'logger' in section 'rules'
+2022-07-05 13:51:52.6419 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-07-05 13:51:52.7187 Info Configuration initialized.
+2022-07-05 13:51:53.4895 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-05 14:49:52.3464 Info Message Template Auto Format enabled
+2022-07-05 14:49:52.5200 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-05 14:49:53.0144 Info Adding target FileTarget(Name=alldata)
+2022-07-05 14:49:53.0238 Info Adding target FileTarget(Name=otherFile-web)
+2022-07-05 14:49:53.0529 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'minval'='Information' for element 'logger' in section 'rules'
+2022-07-05 14:49:53.1994 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-07-05 14:49:53.3055 Info Configuration initialized.
+2022-07-05 14:49:54.7980 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-08 17:06:33.4857 Info Message Template Auto Format enabled
+2022-07-08 17:06:33.5553 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 17:06:34.3290 Info Adding target FileTarget(Name=alldata)
+2022-07-08 17:06:34.3394 Info Adding target FileTarget(Name=otherFile-web)
+2022-07-08 17:06:34.3611 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'minval'='Information' for element 'logger' in section 'rules'
+2022-07-08 17:06:34.4578 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-07-08 17:06:34.5713 Info Configuration initialized.
+2022-07-08 17:06:34.7509 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-08 17:09:48.0163 Info Message Template Auto Format enabled
+2022-07-08 17:09:48.1454 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 17:09:48.6534 Info Adding target FileTarget(Name=alldata)
+2022-07-08 17:09:48.6650 Info Adding target FileTarget(Name=otherFile-web)
+2022-07-08 17:09:48.6944 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'minval'='Information' for element 'logger' in section 'rules'
+2022-07-08 17:09:48.7896 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-07-08 17:09:48.8663 Info Configuration initialized.
+2022-07-08 17:09:48.9152 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-08 17:27:56.4136 Info Message Template Auto Format enabled
+2022-07-08 17:27:56.4836 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 17:27:56.7959 Info Adding target FileTarget(Name=alldata)
+2022-07-08 17:27:56.8270 Info Adding target FileTarget(Name=otherFile-web)
+2022-07-08 17:27:56.8472 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'minval'='Information' for element 'logger' in section 'rules'
+2022-07-08 17:27:56.9457 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-07-08 17:27:57.0474 Info Configuration initialized.
+2022-07-08 17:27:57.1069 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
+2022-07-09 18:32:52.4508 Info Message Template Auto Format enabled
+2022-07-09 18:32:52.5336 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-09 18:32:53.7445 Info Adding target FileTarget(Name=alldata)
+2022-07-09 18:32:53.7569 Info Adding target FileTarget(Name=otherFile-web)
+2022-07-09 18:32:53.8294 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized value 'minval'='Information' for element 'logger' in section 'rules'
+2022-07-09 18:32:53.9884 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\RAMON\Documents\PROGRAMMING FOLDER\Projects\RamonTrustBank\src\TrustBank.API\bin\Debug\net5.0\NLog.config
+2022-07-09 18:32:54.1097 Info Configuration initialized.
+2022-07-09 18:32:54.3566 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.0.1.1159. Product version: 5.0.1+a3718b8417284a90b0f73b2cbba47bc4067f6a3a. GlobalAssemblyCache: False
